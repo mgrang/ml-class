@@ -1,3 +1,5 @@
+README on bit.ly/qc-setup
+
 # Overview
 
 These are materials I use for a class on machine learning with scikit-learn, keras and tensorflow.  Each file is a self contained unit that demonstrates a specific thing.  Downloading or cloning this repository before class is a great way to follow along.
